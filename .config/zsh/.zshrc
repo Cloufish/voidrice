@@ -84,4 +84,4 @@ bindkey '^e' edit-command-line
  export PATH=/home/penelope/.local/bin:$PATH
  
 # Load syntax highlighting; should be last.
-source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh 2>/dev/null
+source /usr/share/zsh/plugins/fast-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh 2>/dev/null
